@@ -1,0 +1,11 @@
+C:\Users\manca.19321\Source\Repos\Analizza\Analizza\obj\Debug\Analizza.csproj.AssemblyReference.cache
+C:\Users\manca.19321\Source\Repos\Analizza\Analizza\obj\Debug\Analizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\manca.19321\Source\Repos\Analizza\Analizza\obj\Debug\Analizza.Form1.resources
+C:\Users\manca.19321\Source\Repos\Analizza\Analizza\obj\Debug\Analizza.Properties.Resources.resources
+C:\Users\manca.19321\Source\Repos\Analizza\Analizza\obj\Debug\Analizza.csproj.GenerateResource.cache
+C:\Users\manca.19321\Source\Repos\Analizza\Analizza\obj\Debug\Analizza.csproj.CoreCompileInputs.cache
+C:\Users\manca.19321\Source\Repos\Analizza\Analizza\bin\Debug\Analizza.exe.config
+C:\Users\manca.19321\Source\Repos\Analizza\Analizza\bin\Debug\Analizza.exe
+C:\Users\manca.19321\Source\Repos\Analizza\Analizza\bin\Debug\Analizza.pdb
+C:\Users\manca.19321\Source\Repos\Analizza\Analizza\obj\Debug\Analizza.exe
+C:\Users\manca.19321\Source\Repos\Analizza\Analizza\obj\Debug\Analizza.pdb
